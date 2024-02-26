@@ -1,9 +1,9 @@
-title: An Awesome site title
-navbar_title: Jekyll Academic
+title: Guillermo Puebla
+navbar_title: Guillermo Puebla
 
 author:
-  name: jekyll-academic # Your name
-  email: your-email@domain.com
+  name: Guillermo Puebla # Your name
+  email: 
 
 description: Jekyll academic is a lightweight theme for any academic usecase. Perfect for portfolio websites, blogs, and academia # description of your site
 
@@ -11,15 +11,16 @@ url: "https://jekyll-academic.netlify.app" # The base hostname & protocol for yo
 baseurl: "" # The subpath of your site, e.g. /blog
 
 jekyllacademic:
-  homepage_title: "Hello world" # Your homepage title
+  homepage_title: "Guillermo Puebla" # Your homepage title
   disqusname: # Your disqus sitename
-  footer: Author Year, 2021 # Your name, Year
+  footer: Guillermo Puebla, 2024 # Your name, Year
   contentlicense: "MIT" # Choose either one of these to put: MIT, Commons Clause, CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0, CC BY-NC-SA 4.0, CC BY-NC-SA 4.0, CC BY-SA 4.0
   socials:
-    twitter: twitter # Your twitter username
-    github: yak-fumblepack/jekyll-academic # Your github username
-    linkedin: unavailable # Your linkedin
-    keybase: keybase # Your keybase
+    twitter: # Your twitter username
+    github: GuillermoPuebla # Your github username
+    researchgate: Guillermo-Puebla # Your linkedin
+    scholar: pEKy224AAAAJ&hl=en
+    keybase: # Your keybase
 
 # No need to edit this part, however if you want to, that's fine as well
 

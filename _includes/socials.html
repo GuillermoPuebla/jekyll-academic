@@ -25,3 +25,13 @@
     <span class="fa fa-keybase"></span>
   </a>
 {% endif %}
+{% if socials.researchgate %}
+  <a href="https://www.researchgate.net/profile/{{ socials.researchgate | cgi_escape | escape}}" target="_blank" style="color: #00D0BB">
+    <span class="fab fa-researchgate"></span>
+  </a>
+{% endif %}
+{% if socials.scholar %}
+  <a href="https://scholar.google.com/citations?user=/{{ socials.scholar | cgi_escape | escape}}" target="_blank" style="color: #add8e6">
+    <span class="fa-brands fa-google-scholar"></span>
+  </a>
+{% endif %}
