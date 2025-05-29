@@ -6,7 +6,7 @@ layout: default
 
 <img src="assets/images/profile_big.jpeg" alt="drawing" width="220"/>\
 Assistant Professor\
-Instituto de Alta Investigación\
+Facultad de Administración y Economía\
 Universidad de Tarapacá\
 Providencia, Chile
 
